@@ -1,5 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=arthurfincham.arthurfincham)
 ![](https://img.shields.io/badge/-@arthurfincham-orange?logo=stackoverflow&logoColor=white)
+<a href="https://stackoverflow.com/users/16316556/arthurfincham" title="Stackover"><img src="https://img.shields.io/badge/-@arthurfincham-orange?logo=stackoverflow&logoColor=white"></a>
 <br>
 Hi, I'm Arthur, currently learning everything!
 
@@ -10,7 +11,7 @@ In the works:
   <li>Javascript</li>
 </ul>
 
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg">
+<a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="21px" height="21px"></a>
 
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
