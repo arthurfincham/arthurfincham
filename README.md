@@ -6,5 +6,6 @@ Hi, I'm Arthur. Currently learning...
 </ul>
 
 
-[<img align="left" alt="JS" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" />]
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
