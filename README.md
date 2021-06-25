@@ -2,10 +2,16 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=arthurfincham.arthurfincham)
 <a href="https://stackoverflow.com/users/16316556/arthurfincham" title="Stackover"><img src="https://img.shields.io/badge/-%20stackoverflow-orange"></a>
-
 ![](https://www.codewars.com/users/arthurfincham/badges/micro)
 
-I am currently in the process of learning as much as possible.
+I am currently in the process of learning as much as possible. The tools I am using are:
+<ul>
+  <li>Codecademy</li>
+  <li>Exercism</li>
+  <li>Codewars</li>
+</ul>
+
+
 <h2>:hammer: In the works...</h2>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px" margin="0px 0px 5px 0px;"></a>   
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px" margin="0px 0px 5px 0px;"></a>   
