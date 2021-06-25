@@ -1,6 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=arthurfincham.arthurfincham)
 [![Github](https://img.shields.io/github/followers/arthurfincham?label=Follow&style=social)](https://github.com/arthurfincham)
-<br>
+
+
 Hi, I'm Arthur, currently learning everything!
 
 In the works:
