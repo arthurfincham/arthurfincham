@@ -1,1 +1,8 @@
-Hi, I'm @arthurfincham. I am in the process of learning Ruby and building simple web apps on the way.
+Hi, I'm Arthur.
+
+Learning...
+<ul>
+  <li>HTML | CSS</li>
+  <li>Ruby | Rails</li>
+  <li>Javascript</li>
+</ul>
