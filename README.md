@@ -11,5 +11,5 @@
 <a href="https://www.ruby-lang.org/en/" title="Ruby"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="40px" height="40px"></a>   
 
 <h2>My GitHub Stats</h2>
-[![](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Arthur's GitHub](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
