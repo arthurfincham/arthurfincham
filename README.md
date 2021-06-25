@@ -12,5 +12,5 @@
 
 <h2>My GitHub Stats</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true&theme=buefy&hide=title))](https://github.com/anuraghazra/github-readme-stats)
 
