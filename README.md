@@ -12,4 +12,5 @@ I am currently in the process of learning as much as possible.
 
 
 <h2>:bar_chart: My GitHub Stats</h2>
+
 [![](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true&theme=vue-dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
