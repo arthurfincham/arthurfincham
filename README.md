@@ -12,6 +12,5 @@ I am currently in the process of learning as much as possible.
 
 <hr>
 
-[![](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![](https://www.codewars.com/api/v1/users/arthurfincham/code-challenges/completed?page=0)]
+[![](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true&theme=vue_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfincham&theme=vue_dark)](https://github.com/anuraghazra/github-readme-stats)
