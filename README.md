@@ -1,4 +1,6 @@
-Hi, I'm Arthur. Currently learning...
+Hi, I'm Arthur, currently learning everything!
+
+In the works:
 <ul>
   <li>HTML | CSS</li>
   <li>Ruby | Rails</li>
