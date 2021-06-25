@@ -10,9 +10,13 @@ I am currently in the process of learning as much as possible.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px" margin="0px 0px 5px 0px;"></a>   
 <a href="https://www.ruby-lang.org/en/" title="Ruby"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="40px" height="40px" margin="0px 0px 5px 0px;"></a>   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfincham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h2>:bar_chart: My GitHub Stats</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true&theme=vue-dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true&theme=vue-dark&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfincham&layout=compact" />
+</a>
