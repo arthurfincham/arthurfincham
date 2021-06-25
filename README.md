@@ -10,7 +10,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px" margin="0px 0px 5px 0px;"></a>   
 <a href="https://www.ruby-lang.org/en/" title="Ruby"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="40px" height="40px" margin="0px 0px 5px 0px;"></a>   
 
-<h2>My GitHub Stats</h2>
+<hr>
 
-[![](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true&theme=buefy&hide=title))](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=arthurfincham&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
