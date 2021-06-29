@@ -11,7 +11,7 @@ I'm currently in the process of learning as much as possible. The tools I am usi
   <li>Codewars</li>
 </ul>
 
-I also like building things to test what I've learnt, like this simple [Sleep Calculator](https://github.com/arthurfincham/sleepcalculator).
+I also like building things to test what I've learnt, like this simple [Sleep Calculator](https://github.com/arthurfincham/sleepcalculator) and a quick [Chelsea FC Quiz](https://arthurfincham.github.io/chelsea_quiz/).
 
 
 <h2>:hammer: Languages in the works...</h2>
