@@ -7,8 +7,12 @@
 
 </div>
 
-I’m Arthur, a recent graduate from Maker’s Academy. Since I finished university in May 2021, working on Ruby and Javascript, I’ve been practicing my coding skills everyday to prepare myself for a role as a Full Stack Engineer. At the moment my focus is on React; making an effort to challenge myself and learn more everyday.
+I’m Arthur, a recent graduate from Maker’s Academy.
 
-I love tech as it is an ever-changing and exiciting field.As a naturally good communicator, I’d love to join a team that collaborates to deliver impactful projects.
+Since I finished university in May 2021, working on Ruby and Javascript, I’ve been practicing my coding skills everyday to prepare myself for a role as a **Full Stack Engineer**.
 
-Please see some of my favourite projects below:
+At the moment my focus is on **React**; making an effort to challenge myself and learn more everyday.
+
+I love tech as it is an ever-changing and exiciting field. As a naturally good communicator, I’d love to join a team that collaborates to deliver impactful projects.
+
+_Please see some of my favourite projects below:_
